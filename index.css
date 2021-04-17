@@ -1,0 +1,82 @@
+
+body{
+    background-color: rgb(234, 0, 255);
+}
+
+
+
+title{
+    color: red;
+    background-color: gold;
+}
+#band-name{
+    text-align: center;
+    font-size: 46px;
+    font-style: inherit;
+    border-color: rgb(233, 227, 186);
+    border: 3px 0px 3px 0px;
+    border-style:ridge;
+    background-color: rgb(243, 235, 230);
+
+    
+}
+P{
+    color: black;
+    text-align: justify;
+    text-decoration: cyan;
+    font-size: larger;
+    width: auto;
+    font-style: italic;
+}
+h1, h2{
+    text-align: center;
+    color: rgb(2, 0, 128);
+
+
+}
+body{
+    background-color: rgb(117, 117, 66);  
+}
+
+img{
+   
+    display: block;
+    position:relative;
+justify-content: center;
+    width:50%; 
+    height:40%   
+}
+
+#band-history{
+    text-align: center;
+    font-size: 46px;
+    font-style: inherit;
+
+    border: 1px 0px 1px 0px;
+    border-style: solid;
+    border-color: rgb(233, 227, 186);
+    background-color: rgb(243, 235, 230);
+}
+
+
+
+#band-members{
+    
+    text-align: center;
+    font-size: 46px;
+    font-style: inherit;
+    border: 1px 0pxpx 1px 0px;
+    border-style: solid;
+    border-color: rgb(233, 227, 186);
+    background-color: rgb(243, 235, 230);
+}
+#Current Band{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 50%;
+
+}
