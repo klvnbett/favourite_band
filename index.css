@@ -7,7 +7,7 @@ body{
 
 title{
     color: red;
-    background-color: gold;
+    background-color: rgb(187, 255, 0);
 }
 #band-name{
     text-align: center;
@@ -15,22 +15,26 @@ title{
     font-style: inherit;
     border-color: rgb(233, 227, 186);
     border: 3px 0px 3px 0px;
-    border-style:ridge;
-    background-color: rgb(243, 235, 230);
+    border-style: ridge;
+    background-color: rgb(213, 228, 85);
 
     
 }
 P{
     color: black;
-    text-align: justify;
+    text-align: center;
     text-decoration: cyan;
     font-size: larger;
     width: auto;
     font-style: italic;
+    
 }
 h1, h2{
     text-align: center;
     color: rgb(2, 0, 128);
+    border: 3px 0px 3px 0px;
+    border-style:ridge;
+    background-color: rgb(85, 183, 228);
 
 
 }
