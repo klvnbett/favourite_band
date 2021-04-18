@@ -3,6 +3,11 @@
 #### By bett kelvin
 ## Description
 This project describe the members and the songs that wailers and bob marley have been performong it further entails the tours and live performance they have done
+
+## Live Demo
+
+[Live Demo Link]( https://klvnbett.github.io/favourite_band/)
+
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
