@@ -38,6 +38,9 @@ h1, h2{
 
 
 }
+h3{text-align: center;
+    color: blue;
+}
 body{
     background-color: rgb(117, 117, 66);  
 }
@@ -49,6 +52,9 @@ img{
 justify-content: center;
     width:50%; 
     height:40%   
+}
+ol, ul{
+    text-align: center;
 }
 
 #band-history{
