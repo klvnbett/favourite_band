@@ -45,7 +45,7 @@ body{
     background-color: rgb(117, 117, 66);  
 }
 
-img{
+.image{
    
     display: block;
     position:relative;
@@ -55,6 +55,7 @@ justify-content: center;
 }
 ol{
     text-align: center;
+    justify-content: center;
 }
 
 
