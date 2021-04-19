@@ -1,6 +1,7 @@
 
 body{
     background-color: rgb(234, 0, 255);
+    
 }
 
 
@@ -42,7 +43,10 @@ h3{text-align: center;
     color: blue;
 }
 body{
+    isplay: flex;
     background-color: rgb(117, 117, 66);  
+    flex-direction: column;
+    align-items: center;
 }
 
 .image{
@@ -50,23 +54,27 @@ body{
     display: block;
     position:relative;
 justify-content: center;
+align-items: center;
     width:50%; 
     height:40%   
 }
-ol{
-    text-align: center;
-    justify-content: center;
+ol ,ul {
+    display: flex;
+    flex-direction: column;
+    align-items: justify;
+    background-clip: content-box;
+    padding: 10%;
+    border: 3px double rgb(62, 64, 190);
+    
 }
-
-
 #band-history{
     text-align: center;
     font-size: 46px;
     font-style: inherit;
-
+    border-radius: 20%;
     border: 1px 0px 1px 0px;
     border-style: solid;
-    border-color: rgb(233, 227, 186);
+    border-color: rgb(207, 233, 186);
     background-color: rgb(243, 235, 230);
 }
 
