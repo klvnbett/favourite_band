@@ -1,0 +1,80 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    background: -webkit-linear-gradient(left, #B21F1F, #F6C81D, #296330);
+}
+
+.header {
+    display: flex;
+    padding: 20px 20px;
+}
+
+.bob_wailers {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 40px;
+}
+
+.imgbob {
+    margin-left: 50px;
+    padding-right: 70px;
+}
+
+.band-history {
+    width: 50%;
+    height: 500px;
+    padding: 30px;
+    margin: 35px;
+    border: 5px solid black;
+}
+
+.recent_forteen {
+    width: 50%;
+    height: 500px;
+    padding: 30px;
+    margin: 35px;
+    border: 5px solid black;
+}
+
+h1 {
+    color: cornflowerblue;
+    background-color: darkgreen;
+    text-align: center;
+}
+
+.band-members {
+    align-items: center;
+}
+
+.current-twenty {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    background-color: #296330;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.songs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 3px solid green;
+    padding: 40px;
+}
+
+.albumcollabo {
+    display: flex;
+    -ms-flex-direction: row;
+}
+
+.imgbottom {
+    padding: 30px 30px 30px 30px;
+    justify-content: flex-end;
+}
