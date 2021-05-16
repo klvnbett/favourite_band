@@ -62,11 +62,16 @@ h2 {
 }
 
 .songs {
+    margin: 25px;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
     border: 3px solid green;
     padding: 40px;
+}
+
+.albums {
+    margin: 25px;
+    border: 5px solid goldenrod;
 }
 
 .albumcollabo {
